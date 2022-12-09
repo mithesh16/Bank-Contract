@@ -1,2 +1,9 @@
-# Bank-Contract
-Smart contract for Banking Dapp
+
+<p>Smart contract for Banking Dapp
+<ol>
+ <li></li>
+  <li></li>
+   <li></li>
+    <li></li>
+    </ol>
+</p>
